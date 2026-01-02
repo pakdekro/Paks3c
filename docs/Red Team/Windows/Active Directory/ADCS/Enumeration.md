@@ -1,7 +1,5 @@
 Utilisation de Certipy-ad ou certify.exe afin d'interragir avec le serveur de certificat.
-### Différentes vulnérabilités
 
-![Pasted image 20240109171310](../../../../Files/Pasted%20image%2020240109171310.png)
 ### 🐧 Linux (certipy-ad)
 
 #### Installation:
