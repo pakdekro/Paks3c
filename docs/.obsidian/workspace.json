@@ -25,12 +25,14 @@
             "id": "23d17cf7e684195f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/Files/Pasted image 20231225120751.png"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20231225120751"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Files/Pasted image 20231225120751.png",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Pasted image 20231225120751"
+              "title": "Rétrolien pour index"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Files/Pasted image 20231225120751.png",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Pasted image 20231225120751"
+              "title": "Liens sortants de index"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Files/Pasted image 20231225120751.png",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Pasted image 20231225120751"
+              "title": "Plan de index"
             }
           }
         ]
@@ -196,13 +198,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "51b4289899051afd",
+  "active": "23d17cf7e684195f",
   "lastOpenFiles": [
-    "Blue Team/Analyse/pcap/DNS tunneling.md",
+    "docs/Files/1750737823260.jpg",
     "docs/Files/Pasted image 20231225120711.png",
+    "docs/Files/Pasted image 20231225120751.png",
+    "Blue Team/Analyse/pcap/DNS tunneling.md",
     "Blue Team/Analyse/Outils en ligne.md",
     "docs/Files/Pasted image 20231227125845.png",
-    "docs/Files/1750737823260.jpg",
     "docs/Files/Pasted image 20251231093545.png",
     "docs/Files/Pasted image 20251231093506.png",
     "docs/Files/Pasted image 20251231093417.png",

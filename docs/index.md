@@ -1,18 +1,12 @@
-Salut ! Je suis un passionné de cybersécurité qui passe son temps libre à participer à des CTF et à approfondir mes connaissances techniques. 
-Ce site est né d'un besoin simple : avoir **un endroit centralisé pour stocker et organiser tout ce que j'apprends au fil de mes explorations**.
+Bonjour à toi qui arrive ici :).
 
-Vous trouverez ici mes notes personnelles sur **diverses techniques d'attaque, des writeups de CTF, des cheatsheets pratiques, et des guides techniques** que j'ai rédigés pour mieux comprendre (et retenir) les concepts que je découvre. **L'approche est volontairement pratique** : beaucoup d'exemples concrets, de commandes prêtes à utiliser, et peu de blabla théorique.
-
-Les sujets couverts évoluent au gré de mes apprentissages et des CTF auxquels je participe : j'ajoute régulièrement du nouveau contenu, notamment quand je découvre des techniques intéressantes ou que je résous des challenges sympas.
-
-Ces notes sont avant tout pour moi, mais si elles peuvent servir à d'autres personnes dans leur apprentissage de la cybersécurité, c'est encore mieux. **N'hésitez pas à les utiliser, les adapter, ou même à me faire des retours si vous trouvez des erreurs ou des améliorations possibles.**
-
-Bonne lecture et bon hacking !
+Actuellement analyste au CERT santé, tu trouvera ici mes notes concernant la cybersécurité (et un peu d'informatique généraliste). En espérant que ça puisse te servir autant qu'à moi.
 
 ---
 Me contacter :
 
 [@Linkedin](https://www.linkedin.com/in/alexandre-lavefve/) 
+@pakdekro sur discord
 
 ---
 ### Certifications
