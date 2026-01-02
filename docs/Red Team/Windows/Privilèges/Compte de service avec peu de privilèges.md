@@ -1,8 +1,4 @@
-Dans certains cas, un exécutable peut être lancé avec un compte de service tout en excluant certains des privilèges dont il dispose, par exemple :
-
-![Pasted image 20240223141030](../../../Files/Pasted%20image%2020240223141030.png)
-
-Ce qui fait que nous pouvons éventuellement avoir un contrôle de ce compte, mais sans ses privilèges associés.
+Dans certains cas, un exécutable peut être lancé avec un compte de service, tout en excluant certains des privilèges dont il dispose, ce qui fait que nous pouvons éventuellement avoir un contrôle de ce compte, mais sans ses privilèges associés.
 
 ---
 ### Réactiver les privilèges avec une tâche planifiée
