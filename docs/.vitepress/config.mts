@@ -9,7 +9,7 @@ export default defineConfig({
   // Optionnel : nettoyer les URLs (.html n'apparaitra pas)
   sitemap: {
   hostname: 'https://example.com'
-  }
+  },
   cleanUrls: true,
   // base: '/Paks3c/',
   themeConfig: {
