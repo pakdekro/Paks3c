@@ -4,7 +4,7 @@ import { generateSidebar } from 'vitepress-sidebar'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Paks3c",
-  description: "A VitePress Site",
+  description: "Notes cybersécurité",
   ignoreDeadLinks: true,
   // Optionnel : nettoyer les URLs (.html n'apparaitra pas)
   sitemap: {
