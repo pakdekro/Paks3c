@@ -8,7 +8,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   // Optionnel : nettoyer les URLs (.html n'apparaitra pas)
   cleanUrls: true,
-  base: '/Paks3c/',
+  // base: '/Paks3c/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

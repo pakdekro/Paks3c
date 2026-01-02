@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/Windows/Privilèges/Compte de service avec peu de privilèges.md",
+                "file": "Blue Team/Analyse/pcap/DNS tunneling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compte de service avec peu de privilèges"
+              "title": "DNS tunneling"
+            }
+          },
+          {
+            "id": "23d17cf7e684195f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Files/Pasted image 20231225120751.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20231225120751"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Windows/Privilèges/Compte de service avec peu de privilèges.md",
+                "file": "docs/Files/Pasted image 20231225120751.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Compte de service avec peu de privilèges"
+              "title": "Rétrolien pour Pasted image 20231225120751"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Windows/Privilèges/Compte de service avec peu de privilèges.md",
+                "file": "docs/Files/Pasted image 20231225120751.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Compte de service avec peu de privilèges"
+              "title": "Liens sortants de Pasted image 20231225120751"
             }
           },
           {
@@ -156,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Windows/Privilèges/Compte de service avec peu de privilèges.md",
+                "file": "docs/Files/Pasted image 20231225120751.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Compte de service avec peu de privilèges"
+              "title": "Plan de Pasted image 20231225120751"
             }
           }
         ]
@@ -183,8 +196,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9dec97e26cd8e9c1",
+  "active": "51b4289899051afd",
   "lastOpenFiles": [
+    "Blue Team/Analyse/pcap/DNS tunneling.md",
+    "docs/Files/Pasted image 20231225120711.png",
+    "Blue Team/Analyse/Outils en ligne.md",
+    "docs/Files/Pasted image 20231227125845.png",
+    "docs/Files/1750737823260.jpg",
+    "docs/Files/Pasted image 20251231093545.png",
+    "docs/Files/Pasted image 20251231093506.png",
+    "docs/Files/Pasted image 20251231093417.png",
+    "docs/Files/Pasted image 20250406172432.png",
+    "docs/Files/Pasted image 20250406172410.png",
+    "docs/Files/Pasted image 20250403231919.png",
+    "docs/Files/Pasted image 20241111023819.png",
+    "Red Team/Windows/Privilèges/Compte de service avec peu de privilèges.md",
     "Red Team/Windows/Active Directory/Kerberoasting.md",
     "Red Team/Windows/Active Directory/ADCS/Enumeration.md",
     "IT/Azure et Active Directory/PaaS/Containers.md",
@@ -194,9 +220,6 @@
     "IT/Azure et Active Directory/Hardening/Principes.md",
     "IT/Azure et Active Directory/Entra ID/Entra Connect.md",
     "IT/Azure et Active Directory/Entra ID/Entra Identity Protection.md",
-    "IT/Azure et Active Directory/Entra ID/Bases.md",
-    "Blue Team/Analyse/pcap/DNS tunneling.md",
-    "Pasted image 20231225120751.png",
-    "Pasted image 20231225120711.png"
+    "IT/Azure et Active Directory/Entra ID/Bases.md"
   ]
 }
