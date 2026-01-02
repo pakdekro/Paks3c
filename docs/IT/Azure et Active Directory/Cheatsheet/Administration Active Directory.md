@@ -22,7 +22,8 @@ Set-ADUser -Identity jdoe -Title "IT Manager" -Department "IT"
 #### Désactiver/Activer un utilisateur
 
 ```powershell
-Disable-ADAccount -Identity jdoe Enable-ADAccount -Identity jdoe
+Disable-ADAccount -Identity jdoe 
+Enable-ADAccount -Identity jdoe
 ```
 #### Déplacer un utilisateur vers une autre OU
 
