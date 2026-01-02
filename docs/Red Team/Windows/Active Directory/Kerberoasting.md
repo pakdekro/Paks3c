@@ -1,7 +1,5 @@
 Le kerberoasting consiste à cibler les utilisateurs ayant un SPN. De ce fait, il est possible de récupérer un TGS à leur nom et ainsi de tenter de le cracker pour récupérer le password du compte.
 
-![0 GIZONcxOmJC9DyH5](../../../Files/0%20GIZONcxOmJC9DyH5.jpg)
-
 ---
 ### Powershell
 
