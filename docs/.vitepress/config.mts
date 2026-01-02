@@ -7,6 +7,9 @@ export default defineConfig({
   description: "A VitePress Site",
   ignoreDeadLinks: true,
   // Optionnel : nettoyer les URLs (.html n'apparaitra pas)
+  sitemap: {
+  hostname: 'https://example.com'
+  }
   cleanUrls: true,
   // base: '/Paks3c/',
   themeConfig: {
