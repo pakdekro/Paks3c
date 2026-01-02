@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Team/Analyse/pcap/DNS tunneling.md",
+                "file": "IT/Azure et Active Directory/PaaS/Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS tunneling"
+              "title": "Containers"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue Team/Analyse/pcap/DNS tunneling.md",
+                "file": "IT/Azure et Active Directory/PaaS/Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour DNS tunneling"
+              "title": "Rétrolien pour Containers"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blue Team/Analyse/pcap/DNS tunneling.md",
+                "file": "IT/Azure et Active Directory/PaaS/Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de DNS tunneling"
+              "title": "Liens sortants de Containers"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blue Team/Analyse/pcap/DNS tunneling.md",
+                "file": "IT/Azure et Active Directory/PaaS/Containers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de DNS tunneling"
+              "title": "Plan de Containers"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "9dec97e26cd8e9c1",
   "lastOpenFiles": [
+    "IT/Azure et Active Directory/IaaS/VM.md",
+    "IT/Azure et Active Directory/Hardening/Principes.md",
+    "IT/Azure et Active Directory/Entra ID/Entra Connect.md",
+    "IT/Azure et Active Directory/Entra ID/Entra Identity Protection.md",
+    "IT/Azure et Active Directory/Entra ID/Bases.md",
+    "Blue Team/Analyse/pcap/DNS tunneling.md",
     "Pasted image 20231225120751.png",
     "Pasted image 20231225120711.png"
   ]

@@ -7,9 +7,6 @@
 - **Microsoft Entra ID P2.** En plus des fonctionnalités Free et P1, la licence P2 offre Microsoft **Entra ID Protection** pour fournir un accès conditionnel en fonction des risques à vos applications et aux données critiques de l’entreprise. Elle propose également **Privileged Identity Managemen**t pour faciliter la découverte, la restriction et la supervision des administrateurs et leur accès aux ressources et, au besoin, fournir un accès juste-à-temps.  
 
 - Licences pour les fonctionnalités avec « paiement à l’utilisation ». Vous pouvez également obtenir des licences pour des fonctionnalités, par exemple Microsoft Entra Business-to-Customer (B2C). B2C peut vous aider à fournir des solutions de gestion d'identité et d'accès pour vos applications orientées vers les clients.
-
-![Pasted image 20240414215003](../../../../../Files/Pasted%20image%2020240414215003.png)
-
 ### Fonctionnalités
 
 |**Catégorie**|**Description**|
