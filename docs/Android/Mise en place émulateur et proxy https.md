@@ -12,9 +12,9 @@ Comme émulateur, le plus simple est encore de passer par Android Studio via un 
 
 ### Création de l'AVD
 
-![[../docs/Files/Pasted image 20250611130250.png]]
+![](../docs/Files/Pasted%20image%2020250611130250.png)
 
-![[../docs/Files/Pasted image 20250611130347.png]]
+![](../docs/Files/Pasted%20image%2020250611130347.png)
 
 Le plus générique est de prendre un modèle Pixel (ici le 3a) ainsi qu'un Android 12.0. Penser à sélectionner les services "Google APIs" => ils permettent d'être root, et les services de Google sont installables par la suite au besoin.
 
