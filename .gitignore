@@ -1,0 +1,7 @@
+# --- Obsidian ---
+# Ignore tout le dossier de configuration Obsidian dans docs
+docs/.obsidian/
+
+# Sécurité supplémentaire : Ignorer tous les dossiers .obsidian où qu'ils soient
+# (Utile si vous déplacez votre dossier docs plus tard)
+.obsidian/
