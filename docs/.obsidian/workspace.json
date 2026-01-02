@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/Windows/Active Directory/ADCS/Enumeration.md",
+                "file": "Red Team/Windows/Active Directory/Kerberoasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "Kerberoasting"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Windows/Active Directory/ADCS/Enumeration.md",
+                "file": "Red Team/Windows/Active Directory/Kerberoasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Enumeration"
+              "title": "Rétrolien pour Kerberoasting"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Windows/Active Directory/ADCS/Enumeration.md",
+                "file": "Red Team/Windows/Active Directory/Kerberoasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Enumeration"
+              "title": "Liens sortants de Kerberoasting"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Windows/Active Directory/ADCS/Enumeration.md",
+                "file": "Red Team/Windows/Active Directory/Kerberoasting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Enumeration"
+              "title": "Plan de Kerberoasting"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "9dec97e26cd8e9c1",
   "lastOpenFiles": [
+    "Red Team/Windows/Active Directory/ADCS/Enumeration.md",
     "Red Team/Windows/Active Directory/Kerberoasting.md",
     "IT/Azure et Active Directory/PaaS/Containers.md",
     "Osint/Tools locaux/Webcams publiques.md",

