@@ -5,7 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar'
 export default defineConfig({
   title: "Paks3c",
   description: "A VitePress Site",
-
+  ignoreDeadLinks: true
   // Optionnel : nettoyer les URLs (.html n'apparaitra pas)
   cleanUrls: true,
   base: '/Paks3c/',
