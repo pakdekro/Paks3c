@@ -8,7 +8,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   // Optionnel : nettoyer les URLs (.html n'apparaitra pas)
   sitemap: {
-  hostname: 'https://example.com'
+  hostname: 'https://paks3c.fr'
   },
   cleanUrls: true,
   // base: '/Paks3c/',
