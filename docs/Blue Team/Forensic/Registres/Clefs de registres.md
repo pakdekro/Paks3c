@@ -1,0 +1,11 @@
+- Version de l'OS: `SOFTWARE\Microsoft\Windows NT\CurrentVersion`
+- Control Set: `SYSTEM\ControlSet001` (ControlSet avec lequel la machine est démarrée) - `SYSTEM\ControlSet002` ("last known good" ControlSet) - `HKLM\SYSTEM\CurrentControlSet` (ControlSet "volatile" crée quand la machine est en cours d'utilisation)
+- Nom de la machine: `SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName`
+- TimeZone: `SYSTEM\CurrentControlSet\Control\TimeZoneInformation`
+- Configuration réseau: `SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces`
+- Autoruns: `NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Run` - `NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\RunOnce` - `SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce` - `SOFTWARE\Microsoft\Windows\CurrentVersion\policies\Explorer\Run` - `SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+- Services: `SYSTEM\CurrentControlSet\Services`
+- Informations sur les utilisateurs: `SAM\Domains\Account\Users`
+- Documents récents: `NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs`
+- Documents récents liés à Office: `NTUSER.DAT\Software\Microsoft\Office\VERSION` - `NTUSER.DAT\Software\Microsoft\Office\15.0\Word` - `NTUSER.DAT\Software\Microsoft\Office\VERSION\UserMRU\LiveID_####\FileMRU`
+- Recherches effectuées dans l'explorer/path accédé dans l'explorer: `NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths` - `NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery`

@@ -1,0 +1,60 @@
+# Nom du workflow
+name: Deploy VitePress site to Pages
+
+on:
+  # Déclencheur : à chaque push sur la branche 'main'
+  push:
+    branches: [main]
+
+  # Permet de lancer le déploiement manuellement depuis l'interface GitHub si besoin
+  workflow_dispatch:
+
+# Permissions nécessaires pour le GITHUB_TOKEN afin de déployer sur Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Configuration de la concurrence pour éviter que deux builds se marchent dessus
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # Job de Build
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Important pour que les plugins de date/historique fonctionnent (si vous en mettez)
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm # Si vous utilisez pnpm ou yarn, changez ici
+
+      - name: Installation des dépendances
+        run: npm ci # 'ci' est plus strict et sécurisé que 'install' pour les pipelines
+
+      - name: Build du site
+        run: npm run docs:build # Assurez-vous que ce script existe dans package.json
+
+      - name: Upload de l'artefact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .vitepress/dist # Le dossier de sortie par défaut de VitePress
+
+  # Job de Déploiement
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
