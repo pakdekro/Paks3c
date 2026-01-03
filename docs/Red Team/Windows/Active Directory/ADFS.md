@@ -34,7 +34,7 @@ La clé privée est souvent stockée de manière chiffrée dans la base de donn�
 
 L'objectif est d'identifier les serveurs ADFS et de récupérer les informations de configuration publique.
 
-```
+```powershell
 # Identifier les serveurs ADFS via SPN
 Get-NetUser -SPN "host/adfs*" | Select-Object Name, DistinguishedName
 
